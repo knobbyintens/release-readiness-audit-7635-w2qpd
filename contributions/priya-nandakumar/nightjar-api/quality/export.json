@@ -1,0 +1,49 @@
+{
+  "schema": "quality-export/v2",
+  "package": "nightjar-api",
+  "owner": "priya-nandakumar",
+  "pipeline": "qa-gate",
+  "generated_at": "2026-11-08T04:15:00Z",
+  "statistics": [
+    {
+      "key": "review_rounds",
+      "value": 2
+    },
+    {
+      "key": "total_findings",
+      "value": 4
+    },
+    {
+      "key": "blocking_findings",
+      "value": 0
+    },
+    {
+      "key": "build_checks",
+      "value": 23
+    },
+    {
+      "key": "resolved_findings",
+      "value": 4
+    },
+    {
+      "key": "open_findings",
+      "value": 0
+    },
+    {
+      "key": "findings_non_blocking",
+      "value": 0
+    },
+    {
+      "key": "findings_blocking",
+      "value": 0
+    },
+    {
+      "key": "review_comments_given",
+      "value": 5
+    },
+    {
+      "key": "review_comments_received",
+      "value": 1
+    }
+  ]
+}

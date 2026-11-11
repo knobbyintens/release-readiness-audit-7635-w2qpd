@@ -1,0 +1,49 @@
+{
+  "schema": "quality-export/v2",
+  "package": "tessera-export",
+  "owner": "priya-nandakumar",
+  "pipeline": "qa-gate",
+  "generated_at": "2026-11-08T04:15:00Z",
+  "statistics": [
+    {
+      "key": "review_rounds",
+      "value": 4
+    },
+    {
+      "key": "total_findings",
+      "value": 6
+    },
+    {
+      "key": "blocking_findings",
+      "value": 4
+    },
+    {
+      "key": "build_checks",
+      "value": 18
+    },
+    {
+      "key": "resolved_findings",
+      "value": 5
+    },
+    {
+      "key": "open_findings",
+      "value": 1
+    },
+    {
+      "key": "findings_non_blocking",
+      "value": 1
+    },
+    {
+      "key": "findings_blocking",
+      "value": 0
+    },
+    {
+      "key": "review_comments_given",
+      "value": 7
+    },
+    {
+      "key": "review_comments_received",
+      "value": 3
+    }
+  ]
+}
